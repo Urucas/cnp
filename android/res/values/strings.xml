@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CopynPaste</string>
+    <string name="action_settings">Settings</string>
+    <string name="creating">Creating your space!</string>
+    <string name="start">Tap to start!</string>
+    <string name="description">Its simple. Create your space, start sharing links and text between your browser and your mobile.</string>
+
+</resources>
